@@ -8,8 +8,8 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   future: { v4: true },
-  url: 'https://egod21.github.io',
-  baseUrl: '/builders-docs/',
+  url: 'https://api.buildersintl.org',
+  baseUrl: '/',
 
   organizationName: 'egod21',
   projectName: 'builders-docs',
