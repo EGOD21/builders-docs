@@ -1,0 +1,23 @@
+{
+  "id": "DBC/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/DBC/overview.md",
+  "sourceDirName": "DBC",
+  "slug": "/DBC/overview",
+  "permalink": "/builders-docs/DBC/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/BRS-RSA/repo-link"
+  },
+  "next": {
+    "title": "architecture",
+    "permalink": "/builders-docs/DBC/architecture"
+  }
+}

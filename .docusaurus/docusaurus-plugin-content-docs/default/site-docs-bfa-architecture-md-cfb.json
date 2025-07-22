@@ -1,0 +1,23 @@
+{
+  "id": "BFA/architecture",
+  "title": "architecture",
+  "description": "",
+  "source": "@site/docs/BFA/architecture.md",
+  "sourceDirName": "BFA",
+  "slug": "/BFA/architecture",
+  "permalink": "/builders-docs/BFA/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "overview",
+    "permalink": "/builders-docs/BFA/overview"
+  },
+  "next": {
+    "title": "next-steps",
+    "permalink": "/builders-docs/BFA/next-steps"
+  }
+}

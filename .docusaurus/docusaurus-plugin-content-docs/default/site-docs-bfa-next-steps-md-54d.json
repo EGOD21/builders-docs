@@ -1,0 +1,23 @@
+{
+  "id": "BFA/next-steps",
+  "title": "next-steps",
+  "description": "",
+  "source": "@site/docs/BFA/next-steps.md",
+  "sourceDirName": "BFA",
+  "slug": "/BFA/next-steps",
+  "permalink": "/builders-docs/BFA/next-steps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "architecture",
+    "permalink": "/builders-docs/BFA/architecture"
+  },
+  "next": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/BFA/repo-link"
+  }
+}

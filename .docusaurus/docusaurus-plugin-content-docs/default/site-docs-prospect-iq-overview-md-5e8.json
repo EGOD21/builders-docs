@@ -1,0 +1,23 @@
+{
+  "id": "ProspectIQ/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/ProspectIQ/overview.md",
+  "sourceDirName": "ProspectIQ",
+  "slug": "/ProspectIQ/overview",
+  "permalink": "/builders-docs/ProspectIQ/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/Num_Spoofer/repo-link"
+  },
+  "next": {
+    "title": "architecture",
+    "permalink": "/builders-docs/ProspectIQ/architecture"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "/builders-docs/-462": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/builders-docs/-0c7": {
+    "__comp": "a7bd4aaa",
+    "__props": "fa1c29d9"
+  },
+  "/builders-docs/-a07": {
+    "__comp": "a94703ab"
+  },
+  "/builders-docs/BFA/architecture-a6e": {
+    "__comp": "17896441",
+    "content": "cfb52a34"
+  },
+  "/builders-docs/BFA/next-steps-5bd": {
+    "__comp": "17896441",
+    "content": "54d93713"
+  },
+  "/builders-docs/BFA/overview-674": {
+    "__comp": "17896441",
+    "content": "95180aa7"
+  },
+  "/builders-docs/BFA/repo-link-110": {
+    "__comp": "17896441",
+    "content": "5b691953"
+  },
+  "/builders-docs/brs-inbox-scanner/architecture-0b6": {
+    "__comp": "17896441",
+    "content": "75dab5c9"
+  },
+  "/builders-docs/brs-inbox-scanner/next-steps-ec7": {
+    "__comp": "17896441",
+    "content": "f93dd654"
+  },
+  "/builders-docs/brs-inbox-scanner/overview-55e": {
+    "__comp": "17896441",
+    "content": "e0431521"
+  },
+  "/builders-docs/brs-inbox-scanner/repo-link-327": {
+    "__comp": "17896441",
+    "content": "af8f0abf"
+  },
+  "/builders-docs/BRS-RSA/architecture-fe9": {
+    "__comp": "17896441",
+    "content": "16eb57ea"
+  },
+  "/builders-docs/BRS-RSA/next-steps-a77": {
+    "__comp": "17896441",
+    "content": "0a7e1530"
+  },
+  "/builders-docs/BRS-RSA/overview-123": {
+    "__comp": "17896441",
+    "content": "b543ded1"
+  },
+  "/builders-docs/BRS-RSA/repo-link-fd5": {
+    "__comp": "17896441",
+    "content": "f46390bb"
+  },
+  "/builders-docs/DBC/architecture-cb2": {
+    "__comp": "17896441",
+    "content": "6da23d71"
+  },
+  "/builders-docs/DBC/next-steps-701": {
+    "__comp": "17896441",
+    "content": "2a1d08d2"
+  },
+  "/builders-docs/DBC/overview-185": {
+    "__comp": "17896441",
+    "content": "d7ce4084"
+  },
+  "/builders-docs/DBC/repo-link-edf": {
+    "__comp": "17896441",
+    "content": "f666c831"
+  },
+  "/builders-docs/FoundryOne/architecture-464": {
+    "__comp": "17896441",
+    "content": "0ae7bdff"
+  },
+  "/builders-docs/FoundryOne/next-steps-5db": {
+    "__comp": "17896441",
+    "content": "319fba5d"
+  },
+  "/builders-docs/FoundryOne/overview-b58": {
+    "__comp": "17896441",
+    "content": "b4541a08"
+  },
+  "/builders-docs/FoundryOne/repo-link-6df": {
+    "__comp": "17896441",
+    "content": "4bcf95f3"
+  },
+  "/builders-docs/FPD-Sage-Sync/architecture-045": {
+    "__comp": "17896441",
+    "content": "213ba39c"
+  },
+  "/builders-docs/FPD-Sage-Sync/next-steps-170": {
+    "__comp": "17896441",
+    "content": "ae70b0d1"
+  },
+  "/builders-docs/FPD-Sage-Sync/overview-83f": {
+    "__comp": "17896441",
+    "content": "56de934e"
+  },
+  "/builders-docs/FPD-Sage-Sync/repo-link-a06": {
+    "__comp": "17896441",
+    "content": "c7100948"
+  },
+  "/builders-docs/Num_Spoofer/architecture-4e6": {
+    "__comp": "17896441",
+    "content": "3312a6de"
+  },
+  "/builders-docs/Num_Spoofer/next-steps-3ed": {
+    "__comp": "17896441",
+    "content": "3af20aef"
+  },
+  "/builders-docs/Num_Spoofer/overview-c6a": {
+    "__comp": "17896441",
+    "content": "445a6bd8"
+  },
+  "/builders-docs/Num_Spoofer/repo-link-433": {
+    "__comp": "17896441",
+    "content": "2519c434"
+  },
+  "/builders-docs/ProspectIQ/architecture-2ee": {
+    "__comp": "17896441",
+    "content": "67e89bc9"
+  },
+  "/builders-docs/ProspectIQ/next-steps-f56": {
+    "__comp": "17896441",
+    "content": "e2de940b"
+  },
+  "/builders-docs/ProspectIQ/overview-5d0": {
+    "__comp": "17896441",
+    "content": "5e867486"
+  },
+  "/builders-docs/ProspectIQ/repo-link-98c": {
+    "__comp": "17896441",
+    "content": "a309af0d"
+  },
+  "/builders-docs/-8c8": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}

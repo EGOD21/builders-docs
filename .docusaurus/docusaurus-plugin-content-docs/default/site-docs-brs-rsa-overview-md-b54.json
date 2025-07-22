@@ -1,0 +1,23 @@
+{
+  "id": "BRS-RSA/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/BRS-RSA/overview.md",
+  "sourceDirName": "BRS-RSA",
+  "slug": "/BRS-RSA/overview",
+  "permalink": "/builders-docs/BRS-RSA/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/BFA/repo-link"
+  },
+  "next": {
+    "title": "architecture",
+    "permalink": "/builders-docs/BRS-RSA/architecture"
+  }
+}

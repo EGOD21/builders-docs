@@ -1,0 +1,23 @@
+{
+  "id": "BRS-RSA/repo-link",
+  "title": "repo-link",
+  "description": "",
+  "source": "@site/docs/BRS-RSA/repo-link.md",
+  "sourceDirName": "BRS-RSA",
+  "slug": "/BRS-RSA/repo-link",
+  "permalink": "/builders-docs/BRS-RSA/repo-link",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "next-steps",
+    "permalink": "/builders-docs/BRS-RSA/next-steps"
+  },
+  "next": {
+    "title": "overview",
+    "permalink": "/builders-docs/DBC/overview"
+  }
+}

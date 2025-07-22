@@ -1,0 +1,23 @@
+{
+  "id": "Num_Spoofer/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/Num_Spoofer/overview.md",
+  "sourceDirName": "Num_Spoofer",
+  "slug": "/Num_Spoofer/overview",
+  "permalink": "/builders-docs/Num_Spoofer/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/FoundryOne/repo-link"
+  },
+  "next": {
+    "title": "architecture",
+    "permalink": "/builders-docs/Num_Spoofer/architecture"
+  }
+}

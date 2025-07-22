@@ -1,0 +1,23 @@
+{
+  "id": "ProspectIQ/next-steps",
+  "title": "next-steps",
+  "description": "",
+  "source": "@site/docs/ProspectIQ/next-steps.md",
+  "sourceDirName": "ProspectIQ",
+  "slug": "/ProspectIQ/next-steps",
+  "permalink": "/builders-docs/ProspectIQ/next-steps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "architecture",
+    "permalink": "/builders-docs/ProspectIQ/architecture"
+  },
+  "next": {
+    "title": "repo-link",
+    "permalink": "/builders-docs/ProspectIQ/repo-link"
+  }
+}
